@@ -1,0 +1,5 @@
+﻿  毕设.cpp
+D:\毕设\cpp\check.h(35,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“毕设.cpp”)
+  
+  毕设.vcxproj -> D:\毕设\cpp\x64\Debug\毕设.exe
